@@ -13,4 +13,4 @@ The goal of this analysis was to identify what kinds of demographics within lowe
 ### Data Scraping
 The data I gathered was aquired from UNICEF's Multiple Indicator Cluster's Survey. This survey excompasses various sets of data that track progress of women's health and development in middle and lower income countries. The data that I specifically chose was the "Attitudes towards Wife Beating" data set that tracked both men's and women's perceptions towards wife beating.The data collected by UNICEF followed a multistage clustering technique that encompessed about 5,000-40,000 households intra-nationally. Attitudes towards domestic abuse were measured by 5 indicators: "(1) she goes out without telling him, (2) she neglects the children, (3) she argues with him, (4) she refuses to have sex with him, (5) she burns the food." These questions were replicated for both men and women and remained constant if not slightly tweaked internationally to match national sentiments of women's roles within the country.
 
-The first set of data I collected was in regards to male sentiment about hitting women in regards to these conditions:
+
